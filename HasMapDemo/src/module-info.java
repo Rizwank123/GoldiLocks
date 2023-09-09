@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author macBook
+ *
+ */
+module HasMapDemo {
+}
